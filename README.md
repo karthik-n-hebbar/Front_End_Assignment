@@ -1,4 +1,3 @@
-# sign-in-page
 ### Simple Sign in page using Vue.js
 ## Project setup
 
